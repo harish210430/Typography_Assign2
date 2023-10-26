@@ -205,7 +205,9 @@ h4{
 }
 
 /* Footer */
-
+.padding_last {
+	padding: 40px 0;
+}
 .Social_media a {
 	margin-left: 24px;
 	color: gray;
@@ -217,13 +219,13 @@ h4{
 	text-align: center;
 }
 .footer_link a {
-	color: gray;
+	color: #6b6a6a;
 	padding: 0 10px;
 }
 
 .footer {
 	background-color: #01122D;
-	color: #d6d5d5;
+	color: #bab6b6;
 	text-align: center;
 	padding: 20px 0;
 }
