@@ -1,4 +1,3 @@
-# we can add the font-style with various method.
-# @font-face rule
-# With download the fonts.
-# With add the link of google fonts.
+# In this Assign. I learnt that for Overflow the items, At the place of Position absolute with left/Right/Top/Bottom Prop. We Can simply use Margin-bottom in Negative pixels.
+# At place of:   Position: absolute; Right: 100px;, top: 500px; 
+# Use => margin-bottom: -200px;
